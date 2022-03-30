@@ -1,4 +1,4 @@
-//node('master')webhook added
+//node('master')
 
 //node()
 node('flipkart-node')
