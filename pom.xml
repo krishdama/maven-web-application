@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.devopsdesk</groupId>
-	<artifactId>maven-web-application</artifactId>venkat
+	<artifactId>maven-web-application</artifactId>venkat rao
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	
